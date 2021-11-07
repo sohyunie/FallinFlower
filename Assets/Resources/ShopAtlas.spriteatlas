@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ShopAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ed13358ea6759e24c85e38b009c27e71, type: 3}
+    - {fileID: 102900000, guid: b2e5fccf056b65f47838e41b2e400dfd, type: 3}
+    - {fileID: 102900000, guid: 24e2757fce827da48b1dc4fe8961462a, type: 3}
+    - {fileID: 102900000, guid: 7d57e3c2590ae7744b9afe2c4028e6d4, type: 3}
+    - {fileID: 102900000, guid: 2556e48bdf0b03442b9eb76fd27c3729, type: 3}
+    - {fileID: 102900000, guid: 50c0ff2527b5d0b48bbe6315d11ede96, type: 3}
+    - {fileID: 102900000, guid: a1b5ea468de3d6742ac8ff3fd4271aed, type: 3}
+    totalSpriteSurfaceArea: 12500199
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 146bc56024ab27148ae6ef0953c5bce1, type: 3}
+  - {fileID: 21300000, guid: f450f2028c2aaa6478e0e4c0f9055f48, type: 3}
+  - {fileID: 21300000, guid: 7c40e796452896e468206374c87da4e0, type: 3}
+  - {fileID: 21300000, guid: 36978c29afaae844a9082681856a081f, type: 3}
+  - {fileID: 21300000, guid: d5d98669c53053a43b5703302f8fe561, type: 3}
+  - {fileID: 21300000, guid: ff2f013a932fefd48bc52fbd40ecc86c, type: 3}
+  - {fileID: 21300000, guid: bb66f68b3199b534085c5d1b6ff87221, type: 3}
+  - {fileID: 21300000, guid: 2010e31d6072b314b8f0391350dd4e82, type: 3}
+  - {fileID: 21300000, guid: 17fac8ed979336b42bd5495a8e6b0d37, type: 3}
+  - {fileID: 21300000, guid: a3da8f3e9101fcc4fb4464384a8501b0, type: 3}
+  - {fileID: 21300000, guid: 28bf329f94baeae459f1c41d58d28a72, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - PotUpgrade_41
+  - Flower_1
+  - Pot_21
+  - Flower_4
+  - WateringCan_31
+  - Flower_2
+  - Flower_3
+  - Flower_5
+  - Flower_6
+  - Flower_7
+  - Vase_11
+  m_RenderDataMap: {}
+  m_Tag: ShopAtlas
+  m_IsVariant: 0
